@@ -176,6 +176,7 @@
 
 .items:hover{
     transform: scale(1.01);
+    backdrop-filter: blur(10px);
 
 }
 .items{

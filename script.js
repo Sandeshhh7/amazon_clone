@@ -32,3 +32,4 @@ logoCreate.onclick = function(){
     homePage[0].style.display = "block";  
     cartSec[0].style.display = 'none';
 }
+
